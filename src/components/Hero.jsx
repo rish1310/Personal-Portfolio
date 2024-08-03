@@ -79,7 +79,7 @@ function Hero() {
                 Front End Back End MongoDB Express React Node
             </motion.div>
             <div className='overflow-hidden md:h-full m-0 p-0 absolute md:top-0 md:right-[100px] md:w-auto h-1/2 w-full bottom-0'>
-                <motion.img className='md:mt-[100px] md:h-[200%] md:w-auto w-full select-none pointer-events-none' src="./hero-.png" alt="" variants={imageVariants} initial='initial' animate='animate' />
+                <motion.img className='md:mt-[100px] md:h-[200%] md:w-auto w-full select-none pointer-events-none' src="./hero.png" alt="" variants={imageVariants} initial='initial' animate='animate' />
             </div>
         </div>
     );
